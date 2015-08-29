@@ -36,6 +36,6 @@ ifeq ($(strip $(ADD_CUSTOM_WEBVIEW)),true)
     $(shell [ -f $(TARGET_OUT)/app/ ] || mkdir -p $(TARGET_OUT)/app/)
     $(shell [ -f $(TARGET_OUT)/lib/ ] || mkdir -p $(TARGET_OUT)/lib/)
     $(shell cp -r $(LOCAL_PATH)/prebuilts/app/webview $(TARGET_OUT)/app/)
-    $(shell cp -r $(LOCAL_PATH)/prebuilts/libs/libwebviewchromium*.so $(TARGET_OUT)/lib/)
+    $(shell cp -r $(LOCAL_PATH)/prebuilts/lib/libwebviewchromium*.so $(TARGET_OUT)/lib/)
 endif
 
