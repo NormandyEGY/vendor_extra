@@ -22,4 +22,4 @@ You must clone it to `vendor/extra` and write this line to your Android.mk of yo
 
 `include vendor/extra/Android.mk`
 
-###NORMANDY LP TEAM
+###[NORMANDY LP TEAM](https://github.com/NormandyLP)
