@@ -3,7 +3,7 @@ Nokia X extra files
 
 ### What is this ?
 ------------------------
-This is some files and apps taken from old Nokia x roms and other android sources .... These files are necessary for compilation sucess
+This is a collection of some files and apps taken from old Nokia x roms and other android sources .... These files are necessary for compilation sucess
 
 ### How to use it ?
 ------------------------
