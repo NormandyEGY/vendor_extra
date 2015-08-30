@@ -20,7 +20,4 @@
 /data            ext4        /dev/block/mmcblk0p22    length=-16384 flags=display="Data"
 /sdcard1         vfat        /dev/block/mmcblk0p21    flags=display="Internal SD";wipeingui
 /system          ext4        /dev/block/mmcblk0p18    flags=backup=1;display="System"
-/preload         ext4        /dev/block/mmcblk0p25    flags=backup=1;wipeingui;display="Preload"
 /sdcard          vfat        /dev/block/mmcblk1p1     /dev/block/mmcblk1 flags=display="Micro SD";storage;wipeingui;removable;settingsstorage
-/persist         ext4        /dev/block/mmcblk0p16    flags=backup=1;wipeingui;display="Persist"
-/variant         ext4        /dev/block/mmcblk0p23    flags=backup=1;wipeingui;display="Variant"
